@@ -1,5 +1,5 @@
-{Insert Day_of_Week}{Insert Today_Date} 📅
-<input type="day"><input type="date">
+{Insert Day_of_Week}{Insert Today_Date} 
+
 
 Moving off Headline, Subheader and Text format.
 
