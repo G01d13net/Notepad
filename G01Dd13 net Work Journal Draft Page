@@ -1,2 +1,2 @@
-{Insert Weekday}, {Insert Month,_Day_Year}
+{Insert Weekday}, {Insert Month} {Insert Day}, {Insert Year}
 
