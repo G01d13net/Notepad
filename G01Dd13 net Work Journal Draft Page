@@ -1,4 +1,5 @@
-<HTML>{Font: Roboto Mono, Bold, 12} 
+<HTML>
+{Font: Roboto Mono, Bold, 12} 
 {Insert Weekday}, {Insert: Month} {Day}, {Year}
 {Font: Roboto Mono, Normal, 12}
 
@@ -18,4 +19,6 @@ of expression at different scalar
 realms (quantum, human, solar and 
 cosmological). And there may be a 
 meter and rhyme at and between each,
-waiting to be found. </html>
+waiting to be found. 
+
+</html>
