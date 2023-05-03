@@ -1,5 +1,5 @@
 # Notepad
-Android workspace for posts to be uploaded to G01d13.net.<br>
+Android workspace for posts to be uploaded to Gø1d13.net.<br>
 <br>
 Product currently originating in Word OneDrive document on Samsung S22 smartphone using AT&T network.
 <br>
