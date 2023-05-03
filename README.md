@@ -5,3 +5,5 @@ Product currently originating in Word OneDrive document on Samsung S22 smartphon
 <br>
 <br>
 See code file in folder (vs. code of this Readme file) for raw and in-process text awaiting further editing and transfer to Gø1d13.net.
+<br>
+{{ start date and age|1969|4|30}}
